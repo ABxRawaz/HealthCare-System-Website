@@ -14,7 +14,7 @@ Tech Stack: 🚀
 
 Next.js (React Framework)
 React
-Prisma (ORM)
+Prisma (ORM) 
 Tailwind CSS
 JWT Authentication 🔒
 (Planned) PostgreSQL/MySQL
